@@ -1,0 +1,5 @@
+identifier,name,email,age,status,date,_ingested_at,_source,_pipeline_version
+1,Ali,ali@example.com,30,active,2026-10-05 00:15:02.091424,2026-10-05 12:43:28.248133+00:00,postgresql,1.0.0
+2,Sara,sara@example.com,25,active,2026-10-05 00:15:02.091424,2026-10-05 12:43:28.248133+00:00,postgresql,1.0.0
+3,Omar,omar@example.com,35,inactive,2026-10-05 00:15:02.091424,2026-10-05 12:43:28.248133+00:00,postgresql,1.0.0
+4,Fatima,fatima@example.com,28,active,2026-10-05 00:15:02.091424,2026-10-05 12:43:28.248133+00:00,postgresql,1.0.0

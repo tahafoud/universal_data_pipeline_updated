@@ -1,0 +1,8 @@
+identifier,name,email,age,country,_ingested_at,_source,_pipeline_version
+1,Ali Ahmed,ali@example.com,24.0,Yemen,2026-10-05 12:43:28.047171+00:00,csv,1.0.0
+2,Sara Ali,sara@example.com,29.0,Yemen,2026-10-05 12:43:28.047171+00:00,csv,1.0.0
+3,Omar Saleh,omar@example.com,29.0,Yemen,2026-10-05 12:43:28.047171+00:00,csv,1.0.0
+4,Ali Ahmed,ali@example.com,24.0,Yemen,2026-10-05 12:43:28.047171+00:00,csv,1.0.0
+5,Mohammed Hassan,mohammed@example.com,31.0,Yemen,2026-10-05 12:43:28.047171+00:00,csv,1.0.0
+6,Sara Ali,sara@example.com,29.0,Yemen,2026-10-05 12:43:28.047171+00:00,csv,1.0.0
+7,Nora Salem,nora@example.com,29.0,Yemen,2026-10-05 12:43:28.047171+00:00,csv,1.0.0

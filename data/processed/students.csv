@@ -1,0 +1,9 @@
+identifier,student_id,name,skills,projects,age,city,gpa,address_city,address_country,courses,academic_gpa,academic_attendance,_ingested_at,_source,_pipeline_version
+1001,1001.0,Unknown,Unknown,Unknown,22.0,Unknown,3.65,Unknown,Unknown,Unknown,3.5,92.0,2026-10-05 12:43:28.294006+00:00,mongodb,1.0.0
+1001,1001.0,Ahmed Ali,"['Python', 'SQL', 'Data Engineering', 'MongoDB']","[{'name': 'AI Pipeline', 'year': 2026, 'technologies': ['Python', 'PostgreSQL']}]",22.0,Unknown,3.65,Unknown,Unknown,Unknown,3.5,92.0,2026-10-05 12:43:28.294006+00:00,mongodb,1.0.0
+1001,1001.0,Ahmed Ali,Unknown,Unknown,22.0,Sanaa,3.65,Unknown,Unknown,Unknown,3.5,92.0,2026-10-05 12:43:28.294006+00:00,mongodb,1.0.0
+1001,1001.0,Ahmed Ali,Unknown,Unknown,22.0,Sanaa,3.5,Unknown,Unknown,Unknown,3.5,92.0,2026-10-05 12:43:28.294006+00:00,mongodb,1.0.0
+1001,1001.0,Ahmed Ali,Unknown,Unknown,22.0,Unknown,3.65,Sanaa,Yemen,Unknown,3.5,92.0,2026-10-05 12:43:28.294006+00:00,mongodb,1.0.0
+1001,1001.0,Unknown,Unknown,Unknown,22.0,Unknown,3.65,Unknown,Unknown,"[{'course_id': 101, 'name': 'Python', 'score': 90}]",3.5,92.0,2026-10-05 12:43:28.294006+00:00,mongodb,1.0.0
+1001,1002.0,Sara Mohammed,Unknown,Unknown,21.0,Dhamar,3.8,Unknown,Unknown,Unknown,3.5,92.0,2026-10-05 12:43:28.294006+00:00,mongodb,1.0.0
+1001,1005.0,Ahmed Ali,"['Python', 'SQL']",Unknown,22.0,Unknown,3.65,Sanaa,Yemen,Unknown,3.5,92.0,2026-10-05 12:43:28.294006+00:00,mongodb,1.0.0

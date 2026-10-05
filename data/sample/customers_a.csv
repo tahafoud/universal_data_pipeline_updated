@@ -1,0 +1,5 @@
+customer_id,name,email,age,country
+1, Ali Ahmed,ali@example.com,24,Yemen
+2,Sara Ali,sara@example.com,29,Yemen
+3,Omar Saleh,omar@example.com,,Yemen
+4,Ali Ahmed,ali@example.com,24,Yemen

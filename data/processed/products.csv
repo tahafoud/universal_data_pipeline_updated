@@ -1,0 +1,4 @@
+product_id,product_name,amount,stock,_ingested_at,_source,_pipeline_version
+1,Laptop,850.0,10,2026-10-05 12:43:28.276171+00:00,postgresql,1.0.0
+2,Mouse,15.5,50,2026-10-05 12:43:28.276171+00:00,postgresql,1.0.0
+3,Keyboard,30.0,25,2026-10-05 12:43:28.276171+00:00,postgresql,1.0.0

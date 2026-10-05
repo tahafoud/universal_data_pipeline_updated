@@ -1,0 +1,7 @@
+pandas>=2.2
+requests>=2.32
+beautifulsoup4>=4.12
+pymongo>=4.8
+psycopg[binary]>=3.2
+python-dotenv>=1.0
+lxml>=5.0
